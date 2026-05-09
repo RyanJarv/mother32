@@ -1,6 +1,6 @@
 # Mother-32 Firmware v2.0.1 Notes
 
-**Note:** This repo is currently just instructions I generated to start the process of learning how to safely modify the Mother-32 firmware, it doesn't actually contain any custom firmware currently.
+**Note: This repo is currently just instructions I generated to start the process of learning how to safely modify the Mother-32 firmware, it doesn't actually contain any custom firmware currently.**
 
 This repository contains the Moog Mother-32 v2.0.1 firmware update files and
 supporting Moog PDFs. The working goal is to understand the update format and
